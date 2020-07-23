@@ -19,21 +19,6 @@ body{
     margin-bottom: 1em;
   }
 
-  .container {
-    margin-top: 80px;
-    margin-left: 170px;
-    margin-right: 170px;
-    padding: 50px 50px;
-    background-color: #f7f4ed;
-    border-radius: 10px 10px 10px 10px;
-    -moz-border-radius: 10px 10px 10px 10px;
-    -webkit-border-radius: 10px 10px 10px 10px;
-    border: 0px solid #000000;
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-  }
-
   .btn {
     font-family: Poppins, Arial, sans-serif;
     padding:0.6em 2em;
